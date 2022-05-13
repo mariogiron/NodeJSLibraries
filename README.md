@@ -55,3 +55,49 @@ Serie de funciones para el manejo de fechas. Formato, cálculo de fechas y trans
 [NPM dayjs](https://www.npmjs.com/package/dayjs)
 
 ---
+
+### Express Validator
+
+Herramientas para validar los valores incluidos dentro de la petición entrante a nuestro servidor
+
+[NPM express-validator](https://www.npmjs.com/package/express-validator)
+
+---
+
+### BcryptJS
+
+Encriptación de cadenas de caracteres. Librería fundamental para la gestión de passwords de usuarios.
+
+[NPM bcryptjs](https://www.npmjs.com/package/bcryptjs)
+
+--- 
+
+### JsonWebToken
+
+Codifica información en formato JWT para completar la comunicación entre diferentes sistemas basados en Javascript
+
+[NPM jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
+---
+
+### Multer
+
+Gestión a través de un middleware de la subida de archivos dentro de una aplicación de Express.
+
+[NPM multer](https://www.npmjs.com/package/multer)
+
+---
+
+### Jest
+
+Creación y ejecución de pruebas unitarias dentro de un proyecto generado con Javascript.
+
+[NPM jest](https://www.npmjs.com/package/jest)
+
+---
+
+### Supertest
+
+Peticiones sobre una aplicación de Express para poder completar nuestras pruebas con Jest
+
+[NPM supertest](https://www.npmjs.com/package/supertest)
